@@ -3,7 +3,7 @@
     "version": "8.4.0",
     "type": "wordpress-theme",
     "source": {
-        "url": "git@github.com:minorgod/sage.git",
-        "type": "git"
+      "type": "git",
+      "url": "git@github.com:minorgod/sage.git"
     }
 }
