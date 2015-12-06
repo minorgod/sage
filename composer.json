@@ -1,0 +1,9 @@
+{
+    "name": "minorgod/sage",
+    "version": "master",
+    "type": "wordpress-theme",
+    "source": {
+        "url": "git@github.com:minorgod/sage.git",
+        "type": "git"
+    }
+}
