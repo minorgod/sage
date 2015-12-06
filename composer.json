@@ -1,6 +1,6 @@
 {
     "name": "minorgod/sage",
-    "version": "master",
+    "version": "8.4.0",
     "type": "wordpress-theme",
     "source": {
         "url": "git@github.com:minorgod/sage.git",
